@@ -1,6 +1,10 @@
 # invoice-creator
 A Java application for any mobile shop to maintain stock and create Invoice.
 
+/*
+This is my first project i have made in java.
+*/
+
 Basically it is a java application used with mysql database to maintain stock for any mobile shop and create invoices based on their database (products added, or available in the database). Dashboard consists of some QR Codes which gives the information about the creators of the project, and another takes you to updates under mobile technology website.
 
 It includes GST enabled taxation. A simple invoice can be created.
